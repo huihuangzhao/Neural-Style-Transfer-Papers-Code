@@ -24,7 +24,7 @@
 
 - [CVPR 2018] CartoonGAN: Generative Adversarial Networks for Photo Cartoonization [Paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_CartoonGAN_Generative_Adversarial_CVPR_2018_paper.pdf)
 
-- [ECCV 2018] Stroke Controllable Fast Style Transfer with Adaptive Receptive Fields [paper](https://arxiv.org/abs/1802.07101) [code](https://github.com/LouieYang/stroke-controllable-fast-style-transfer).
+- [ECCV 2018] Stroke Controllable Fast Style Transfer with Adaptive Receptive Fields [Paper](https://arxiv.org/abs/1802.07101) [Code](https://github.com/LouieYang/stroke-controllable-fast-style-transfer).
 
 ## Citation 
 If you find this repository useful for your research, please cite
