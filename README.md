@@ -12,8 +12,7 @@
 
 - [CVPR 2018] Real-Time Monocular Depth Estimation using Synthetic Data with Domain Adaptation via Image Style Transfer [Paper](http://breckon.eu/toby/publications/papers/abarghouei18monocular.pdf) [Code](https://github.com/atapour/monocularDepth-Inference)
 
-- [CVPR 2018] Meta Networks for Neural Style Transfer [Paper](https://arxiv.org/pdf/1709.04111.pdf)  *(CVPR 2018)*
- [ Code Caffe-based](https://github.com/FalongShen/styletransfer)
+- [CVPR 2018] Meta Networks for Neural Style Transfer [Paper](https://arxiv.org/pdf/1709.04111.pdf)  [ Code Caffe-based](https://github.com/FalongShen/styletransfer)
 
 - [CVPR 2018] A Common Framework for Interactive Texture Transfer [Paper](http://www.icst.pku.edu.cn/F/zLian/papers/CVPR18-Men.pdf) 
 
@@ -25,7 +24,8 @@
 
 - [CVPR 2018] CartoonGAN: Generative Adversarial Networks for Photo Cartoonization [Paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_CartoonGAN_Generative_Adversarial_CVPR_2018_paper.pdf)
 
-- [ECCV 2018] *Stroke Controllable Fast Style Transfer with Adaptive Receptive Fields*[paper](https://arxiv.org/abs/1802.07101) [code](https://github.com/LouieYang/stroke-controllable-fast-style-transfer).
+- [ECCV 2018] Stroke Controllable Fast Style Transfer with Adaptive Receptive Fields [paper](https://arxiv.org/abs/1802.07101) [code](https://github.com/LouieYang/stroke-controllable-fast-style-transfer).
+
 ## Citation 
 If you find this repository useful for your research, please cite
 
