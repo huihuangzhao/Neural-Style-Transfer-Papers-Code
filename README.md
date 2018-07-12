@@ -4,7 +4,7 @@
 
 *If I missed your paper in this review, please email me or just pull a request here. I am more than happy to add it. Thanks!*
 
-- [OCT, 2017] a review paper "**[Automatic Semantic Style Transfer using Deep Convolutional Neural Networks and Soft Masks](https://arxiv.org/abs/1708.09641)**" 
+- [OCT, 2017] a paper "**[Automatic Semantic Style Transfer using Deep Convolutional Neural Networks and Soft Masks](https://arxiv.org/abs/1708.09641)**" 
 
 ## *News!*
 
@@ -25,7 +25,7 @@
 
 - [CVPR 2018] CartoonGAN: Generative Adversarial Networks for Photo Cartoonization [Paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_CartoonGAN_Generative_Adversarial_CVPR_2018_paper.pdf)
 
-- [ECCV 2018] *Stroke Controllable Fast Style Transfer with Adaptive Receptive Fields*[paper(https://arxiv.org/abs/1802.07101)] [code(https://github.com/LouieYang/stroke-controllable-fast-style-transfer)].
+- [ECCV 2018] *Stroke Controllable Fast Style Transfer with Adaptive Receptive Fields*[paper](https://arxiv.org/abs/1802.07101)] [code(https://github.com/LouieYang/stroke-controllable-fast-style-transfer).
 ## Citation 
 If you find this repository useful for your research, please cite
 
