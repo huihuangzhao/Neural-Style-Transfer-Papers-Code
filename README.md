@@ -1,41 +1,47 @@
 # Neural-Style-Transfer-Papers-Code
-# Neural-Style-Transfer-Papers <img class="emoji" alt=":art:" height="30" width="30" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3a8.png">
-Selected papers, corresponding codes and pre-trained models in our review paper "**[Neural Style Transfer: A Review](https://arxiv.org/abs/1705.04058)**" 
+
+
 
 *If I missed your paper in this review, please email me or just pull a request here. I am more than happy to add it. Thanks!*
 
+- [OCT, 2017] a review paper "**[Automatic Semantic Style Transfer using Deep Convolutional Neural Networks and Soft Masks](https://arxiv.org/abs/1708.09641)**" 
 
 ## *News!*
 
-- [July, 2018] Our paper *Stroke Controllable Fast Style Transfer with Adaptive Receptive Fields* has been accepted by ECCV 2018. Our review will be updated correspondingly.
+- [CVPR 2018] Avatar-Net: Multi-scale Zero-shot Style Transfer by Feature Decoration.[Paper](https://arxiv.org/abs/1805.03857) [Code](https://github.com/LucasSheng/avatar-net)
 
-- [June, 2018] Upload a new version of our paper on arXiv which adds several missing papers (e.g., the work of Wang et al. *ZM-Net: Real-time Zero-shot Image Manipulation Network*).
+- [CVPR 2018] Real-Time Monocular Depth Estimation using Synthetic Data with Domain Adaptation via Image Style Transfer [paper](http://breckon.eu/toby/publications/papers/abarghouei18monocular.pdf) [Code](https://github.com/atapour/monocularDepth-Inference)
 
-- [Apr, 2018] We have released a new version of the paper with significant changes at: https://arxiv.org/pdf/1705.04058.pdf </br> Appreciate the feedback!
+- [CVPR 2018] Meta Networks for Neural Style Transfer [Paper](https://arxiv.org/pdf/1709.04111.pdf)  *(CVPR 2018)*
+ [ Code Caffe-based](https://github.com/FalongShen/styletransfer)
 
-- [Feb, 2018] Update the *Images* *(Images_neuralStyleTransferReview_v2)* in the *Materials*. Add the results of Li et al.'s NIPS 2017 paper.
+- [CVPR 2018] A Common Framework for Interactive Texture Transfer [Paper](http://www.icst.pku.edu.cn/F/zLian/papers/CVPR18-Men.pdf) 
 
-- [Jan, 2018] *Pre-trained models* and all the *content images*, the *style images*, and the *stylized results* in the paper have been released.
+- [CVPR 2018] Arbitrary Style Transfer with Deep Feature Reshuffle [Paper](https://arxiv.org/abs/1805.04103) 
 
+- [CVPR 2018] Separating Style and Content for Generalized Style Transfer [Paper](https://arxiv.org/pdf/1711.06454.pdf)  
 
-<p align='center'>
-    </br>
-    <img src='framework_n4.png' width='1000'>
-</p>
+- [CVPR 2018] Captioning Images with Style Transfer from Unaligned Text Corpora
 
+- [CVPR 2018] CartoonGAN: Generative Adversarial Networks for Photo Cartoonization [Paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_CartoonGAN_Generative_Adversarial_CVPR_2018_paper.pdf)
+
+- [ECCV 2018] *Stroke Controllable Fast Style Transfer with Adaptive Receptive Fields*[paper(https://arxiv.org/abs/1802.07101)] [code(https://github.com/LouieYang/stroke-controllable-fast-style-transfer)].
 ## Citation 
 If you find this repository useful for your research, please cite
 
 ```
 @article{jing2017neural,
-  title={Neural Style Transfer: A Review},
-  author={Jing, Yongcheng and Yang, Yezhou and Feng, Zunlei and Ye, Jingwen and Yu, Yizhou and Song, Mingli},
-  journal={arXiv preprint arXiv:1705.04058},
-  year={2017}
+  title={Automatic Semantic Style Transfer using Deep Convolutional Neural Networks and Soft Masks},
+  author={Huihuang Zhao, Paul L. Rosin, Yu-Kun Lai},
+  journal={arxiv.org/abs/1708.09641},
+  year={2017} 
 }
 ```
 
-## Materials corresponding to Our Paper
+
+Below infromation is from https://github.com/ycjing/Neural-Style-Transfer-Papers
+
+- [Jan, 2018] a review paper "**[Neural Style Transfer: A Review](https://arxiv.org/abs/1705.04058)**" 
 
 :white_check_mark: [**Supplementary Materials**](http://yongchengjing.com/pdf/review_supp.pdf)
 
@@ -92,12 +98,8 @@ If you find this repository useful for your research, please cite
 
 *   [Torch-based](https://github.com/chuanli11/CNNMRF)
 
-
-
 ###  2. "Fast" Neural Methods Based On Offline Model Optimization
-
 ### 2.1. Per-Style-Per-Model "Fast" Neural Methods
-
 
 :white_check_mark: [**Perceptual Losses for Real-Time Style Transfer and Super-Resolution**] [[Paper]](https://arxiv.org/pdf/1603.08155.pdf)  *(ECCV 2016)*
 
