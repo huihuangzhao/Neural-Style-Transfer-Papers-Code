@@ -30,7 +30,7 @@
 If you find this repository useful for your research, please cite
 
 ```
-@article{jing2017neural,
+@article{zhao2017automatic,
   title={Automatic Semantic Style Transfer using Deep Convolutional Neural Networks and Soft Masks},
   author={Huihuang Zhao, Paul L. Rosin, Yu-Kun Lai},
   journal={arxiv.org/abs/1708.09641},
