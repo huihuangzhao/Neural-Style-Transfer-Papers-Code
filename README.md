@@ -7,6 +7,8 @@
 - [OCT, 2017] a paper "**[Automatic Semantic Style Transfer using Deep Convolutional Neural Networks and Soft Masks](https://arxiv.org/abs/1708.09641)**" 
 
 ## *News!*
+- [QQ Group] Hi，there is a QQ group(932989257) for Neural-Style-Transfer communication. Join us for free...
+
 
 - [CVPR 2018] Avatar-Net: Multi-scale Zero-shot Style Transfer by Feature Decoration.[Paper](https://arxiv.org/abs/1805.03857) [Code](https://github.com/LucasSheng/avatar-net)
 
