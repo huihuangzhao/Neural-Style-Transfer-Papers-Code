@@ -9,6 +9,7 @@
 ## *News!*
 - [QQ Group] Hi，there is a QQ group(932989257) for Neural-Style-Transfer communication. Join us for free...
 
+-[ChipGAN] ChipGAN: A Generative Adversarial Network for Chinese Ink Wash Painting Style Transfer. [Paper](http://alumni.media.mit.edu/~shiboxin/files/He_MM18.pdf) 
 
 - [CVPR 2018] Avatar-Net: Multi-scale Zero-shot Style Transfer by Feature Decoration.[Paper](https://arxiv.org/abs/1805.03857) [Code](https://github.com/LucasSheng/avatar-net)
 
